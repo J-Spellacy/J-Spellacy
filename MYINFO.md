@@ -1,0 +1,4 @@
+- Hi, I’m @J-Spellacy
+- I’m a beginner coder so please consider my code might not be as efficient as possible but happy to recieve advice.
+- Currently studying General Engineering at The University Of Sheffield.
+- Email - @judespellacy@gmail.com
